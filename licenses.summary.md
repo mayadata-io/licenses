@@ -1,4 +1,4 @@
-Here is a summary of the all the licenses used by the software that is used by the OpenEBS components. 
+OpenEBS uses 3rd party products released under the following licenses.
 
 - AFL-3.0 https://opensource.org/licenses/AFL-3.0
 - Apache-2.0 https://www.apache.org/licenses/LICENSE-2.0
